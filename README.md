@@ -5,3 +5,5 @@ At the end of the project you can find the below outcomes :
 2. Model Score of Kernal(linear)
 3. Model Score of Kernal(poly) 
 4. Accuracy
+5. Confusion Matrix
+6. Mean squared error
